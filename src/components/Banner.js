@@ -1,8 +1,9 @@
 function Banner() {
   return (
+    
     <div className="Banner">
       <div className="parent">
-        
+
         <div className="child">
           <h1>
             test
